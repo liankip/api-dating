@@ -1,0 +1,1 @@
+ALTER TABLE swipes RENAME COLUMN profile_id TO target_id;

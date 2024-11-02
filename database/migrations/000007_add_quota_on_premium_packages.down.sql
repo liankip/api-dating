@@ -1,0 +1,1 @@
+ALTER TABLE premium_packages DROP COLUMN quota;
